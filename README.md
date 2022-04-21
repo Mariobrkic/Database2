@@ -27,6 +27,6 @@ BEGIN
 END
 
 INSERT INTO Comment (content)
-VALUES ('This is my first comment!');ž
+VALUES ('This is my first comment!');
 
 SELECT * FROM Analytics;
